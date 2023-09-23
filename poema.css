@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(165, 116, 243);
+} 
+h1{
+    color: darkmagenta;
+} 
+h2{
+    color: white;
+    font-size: 18px;
+} 
+p{
+    color: white;
+    font-size: 16px;
+} 
+h1{
+    size: 21px;
+} 
+p{
+    size: 18px; 
+    
+} 
+h2{
+    color: pink; 
+    size: 22;
+}
